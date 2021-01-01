@@ -1,11 +1,11 @@
-## - 가상환경 설정 MacOS
+
 click here 
 * [플라스크 질문게시판](https://pybo.kr/pybo/question/detail/368/)
 * [플라스크 게시판](https://pybo.kr/pybo/question/list/qna/)
 * [점프 투 플라스크 위키독스](https://wikidocs.net/book/4542)
 * [git hub jump2flask](https://github.com/pahkey/flaskbook)
 
-
+## - 가상환경 설정 MacOS
 ```
 python3 -m venv .proj
 source ./proj/bin/activate

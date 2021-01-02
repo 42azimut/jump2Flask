@@ -10,9 +10,9 @@ click here
 
 >>`pip3 freeze > requirement.txt`
 
-- 파이썬 라이브러리들의 버전 관리를 위하여 requirement.txt 라는 파일로 라이브러리를 설치한다. requirement.txt에는 각종 라이브러리 리스트와 라이브러리들의 버전 정보가 기재 되어있다.
-
-이 라이브러리를 설치하는 방법은
+- 파이썬 라이브러리들의 버전 관리를 위하여 requirement.txt 라는 파일로 라이브러리를 설치한다. 
+    requirement.txt에는 각종 라이브러리 리스트와 라이브러리들의 버전 정보가 기재 되어있다.
+    이 라이브러리를 설치하는 방법은
 
 >> `pip3 install -r requirement.txt`
 

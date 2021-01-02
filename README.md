@@ -8,9 +8,11 @@ click here
 ## 파이썬 Requirement.txt 생성 
 - 파이썬 프로젝트에서 사용되고 있는 패키지들의 의존성 확보를 위해 requirement.txt 를 활용하는데, 해당 파일을 자동 생성하는 명령어는 다음과 같다.
 
->>`pip freeze > requirement.txt`
+>>`pip3 freeze > requirement.txt`
 
-- 파이썬 라이브러리들의 버전 관리를 위하여 requirement.txt 라는 파일로 라이브러리를 설치한다. 
+- 파이썬 라이브러리들의 버전 관리를 위하여 requirement.txt 라는 파일로 라이브러리를 설치한다. requirement.txt에는 각종 라이브러리 리스트와 라이브러리들의 버전 정보가 기재 되어있다.
+
+이 라이브러리를 설치하는 방법은
 
 >> `pip3 install -r requirement.txt`
 
